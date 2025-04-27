@@ -1,1 +1,1 @@
-# credit_scorez_analysis
+# credit_score_analysis
