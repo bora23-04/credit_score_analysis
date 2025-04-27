@@ -25,6 +25,22 @@ EDA involved exploring the credit score to answer key questions,such as:
 - What is the payment behaviour of most people?
 - What is the credit score according to occupation?
 
+### Graphs
+#### Total EMI per month and payment behaviour
+  ![image](https://github.com/user-attachments/assets/be7f11ea-3e36-4b1e-aef7-05b7e60b6b2d)
+  
+#### Credit Score according to Occupation
+![image](https://github.com/user-attachments/assets/2d0b4f68-3748-4701-b106-ef92e8867e6c)
+
+#### Payment Behavior of Customers
+![image](https://github.com/user-attachments/assets/4c573ae7-e392-4332-96c3-144d8a0051a7)
+
+#### Individual Annual Incomes by Credit Score Category
+![image](https://github.com/user-attachments/assets/91a3f29d-9d5c-44e9-86e4-2c55f1989447)
+
+#### Credit and Monthly In-hand Salary
+![image](https://github.com/user-attachments/assets/e30982ec-1158-4a73-a61d-aafa82242347)
+
 ### Key finding from the data 
 The analysis of the credit card data has revealed several common patterns and trends among credit score, distribution count of credit cards, annual income, monthly income salary, occupation and payment behaviour. Let us explore it more.
 
